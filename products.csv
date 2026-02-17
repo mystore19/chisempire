@@ -1,10 +1,7 @@
 ProductID,ProductName,Category,Brand,Price,Stock,ImageURL,DiscountPrice
 CA001,Kitchen knife set ,Household essentials,,7500,1000,images/1.jpeg,0
-CA002,"Mini sewing machine
-(Electric and battery enabled)",Household essentials,,19000,1000,images/2.jpeg,0
-PA001,"Handy sewing machine 
-(Battery enabled)",Household essentials,,9500,1000,images/3.jpeg,0
-PA002,Boyfriend shoe,footwears,"1(black size 38)
-          1(brown size 40)",25000,1000,images/4.jpeg,0
-PA003,Amiri footwear,footwears,"2 (45 46blue)
-         1(46 black)",2200,1000,images/5.jpeg,0
+CA002,"Mini sewing machine(Electric and battery enabled)",Household essentials,,19000,1000,images/2.jpeg,0
+PA001,"Handy sewing machine (Battery enabled)",Household essentials,,9500,1000,images/3.jpeg,0
+PA002,Boyfriend shoe,footwears,"1(black size 38)1(brown size 40)",25000,1000,images/4.jpeg,0
+PA003,Amiri footwear,footwears,"2 (45 46blue)1(46 black)",2200,1000,images/5.jpeg,0
+
